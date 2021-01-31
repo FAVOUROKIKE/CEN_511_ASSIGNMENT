@@ -1,0 +1,2 @@
+# OKIKE-FAVOUR-16CJ020754-ARDUINO-ASSIGNMENT
+This is the arduino assignment 
